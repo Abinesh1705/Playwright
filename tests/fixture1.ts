@@ -1,4 +1,4 @@
-import { test as sauce } from '@playwright/test'
+import { test as sauce } from '@playwright/test';
 
 type myFixture = {
     login: string;
